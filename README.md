@@ -5,7 +5,7 @@ This prototype of a chess game was developed in collaboration with Brandon Leath
 
 Instructions:
 Decide player colors.
-When it's your turn, left click to select a piece, then right click on the field you want to move it to*.
+When it's your turn, left click to select a piece, then right click on the field you want to move it to.*
 
 Current features:
 En passant.
